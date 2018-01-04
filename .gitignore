@@ -1,0 +1,8 @@
+#忽略文件夹的内容#
+.vscode
+.idea
+*.log
+node_modules
+target
+yarn-error.log
+/build/server.config.json

@@ -1,0 +1,14 @@
+{
+  "name": "dll",
+  "content": {
+    "./node_modules/jquery/dist/jquery.js": 1,
+    "./node_modules/vue/dist/vue.common.js": 2,
+    "./node_modules/process/browser.js": 3,
+    "./node_modules/vue-router/dist/vue-router.js": 4,
+    "./node_modules/vue-validator/dist/vue-validator.common.js": 5,
+    "./node_modules/vuex/lib/index.js": 6,
+    "./node_modules/vuex/lib/util.js": 7,
+    "./node_modules/vuex/lib/middlewares/devtool.js": 8,
+    "./node_modules/vuex/lib/middlewares/logger.js": 9
+  }
+}
